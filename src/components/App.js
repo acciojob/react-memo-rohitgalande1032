@@ -24,7 +24,7 @@ const App = () => {
                 <li key={index}>{item}</li>
             ))}
         </ul>
-        <button onClick={onclickHandler} >Add todo</button>
+        <button onClick={onclickHandler} >Add Todo</button>
     </div>
     <hr />
     <div>
